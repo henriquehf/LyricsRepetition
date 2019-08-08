@@ -14,4 +14,4 @@ On the db folder are 4 csv files. They contain the data gathered by the web scra
 
 On the queries folder are two files containing most of the sql queries used to analyse the data from the server. The result from the most important queries can be seen on the fourth chapter of the dissertation.
 
-The dissertation is the TCC.pdv file.
+The dissertation is the TCC.pdf file.
